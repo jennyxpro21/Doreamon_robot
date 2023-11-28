@@ -418,7 +418,7 @@ async def gitsource_callback(update: Update, context: ContextTypes.DEFAULT_TYPE)
     await query.answer()
 
     if query.data == "git_source":
-        source_link = "https://github.com/Infamous-Hydra/YaeMiko"
+        source_link = "https://github.com/mrtosumemon/Doreamon_robot"
         message_text = (
             f"*Here is the link for the public source repo*:\n\n{source_link}"
         )
@@ -436,7 +436,7 @@ async def gitsource_callback(update: Update, context: ContextTypes.DEFAULT_TYPE)
 
 
 async def repo(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    source_link = "https://github.com/Infamous-Hydra/YaeMiko"
+    source_link = "https://github.com/mrtosumemon/Doreamon_robot"
     message_text = f"*Here is the link for the public source repo*:\n\n{source_link}"
 
     await context.bot.send_message(chat_id=update.effective_chat.id,
@@ -478,7 +478,7 @@ async def Miko_about_callback(update: Update, context: ContextTypes.DEFAULT_TYPE
                 ]
             ),
         )
-    elif query.data == "Miko_support":
+    elif query.data == "The_Incricible":
         message_text = (
             "*Our bot leverages SQL, MongoDB, Telegram, MTProto for secure and efficient operations. It resides on a high-speed server, integrates numerous APIs, ensuring quick and versatile responses to user queries.*"
             f"\n\n*If you find any bug in {BOT_NAME} Please report it at the support chat.*"
