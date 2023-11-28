@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://telegra.ph/file/33a8d97739a2a4f81ddde.jpg" width="600">
+  <img src="https://te.legra.ph/file/ec769e8678c6777cd51c8.jpg" width="600">
 </div>
 
 <div align="center">
@@ -57,18 +57,18 @@ Your contributions drive the project forward. Thank you for your support!
 <p align="center">Click the button below to deploy YAE ダ MIKO on Heroku and enjoy its enhanced features and user-friendly interface!</p>
 
 <p align="center">
-    <a href="https://heroku.com/deploy?template=https://github.com/Infamous-Hydra/YaeMiko">
+    <a href="https://heroku.com/deploy?template=https://github.com/mrtosumemon/Doreamon_robot">
         <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
     </a>
 </p>
 
 
 ## CREDITS
-The foundation of the application is rooted in the initial efforts undertaken by [PaulSonOfLars](https://github.com/PaulSonOfLars)
+The foundation of the application is rooted in the initial efforts undertaken by [Legend Tosu](https://github.com/mrtosumemon)
 + [lostb053](https://github.com/lostb053) > Anime
 + [TheHamkerCat](https://github.com/TheHamkerCat) > Python-Arq
 + [ProjectCodeX](https://github.com/Team-ProjectCodeX) > Modules
 
-Others in the commit history and files. If anything is missing, feel free to  [![gmail](https://img.shields.io/badge/mail-Here-red?style=for-the-badge&logo=gmail)](mailto:makandu2054@gmail.com)  or submit a pull request.
+Others in the commit history and files. If anything is missing, feel free to  [![gmail](https://img.shields.io/badge/mail-Here-red?style=for-the-badge&logo=gmail)](yourgodfatherxd@gmail.com)  or submit a pull request.
 
-> Try this bot [@MIKO_V2BOT](https://t.me/MIKO_V2BOT); it's made with this repository for demonstration purposes.
+> Try this bot [@MIKO_V2BOT](https://t.me/DoReAmOn_Ro_BoT); it's made with this repository for demonstration purposes.
